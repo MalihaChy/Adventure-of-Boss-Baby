@@ -1,0 +1,20 @@
+﻿Build started 10/10/2017 9:12:54 PM.
+     1>Project "D:\Cse1200A2\iGraphic1.2VS10\iGraphic1.2VS10\iGraphic1.2VS10\iGraphic1.2VS10.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\iGraphic1.2VS10.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\iGraphic1.2VS10.unsuccessfulbuild".
+         Touching "Debug\iGraphic1.2VS10.lastbuildstate".
+     1>Done Building Project "D:\Cse1200A2\iGraphic1.2VS10\iGraphic1.2VS10\iGraphic1.2VS10\iGraphic1.2VS10.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01
